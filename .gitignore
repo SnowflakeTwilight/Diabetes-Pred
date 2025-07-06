@@ -1,0 +1,41 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Jupyter / Notebooks
+.ipynb_checkpoints
+
+# Model files (optional if large)
+*.h5
+*.pt
+*.joblib
