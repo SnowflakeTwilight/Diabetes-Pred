@@ -17,7 +17,7 @@ A full-stack machine learning web application built using **Django** to predict 
 ---
 
 ## 📁 Project Structure
-
+```plaintext
 DiabetesPrediction/ # Django project folder
 ├── init.py
 ├── asgi.py
@@ -42,7 +42,7 @@ predictor/ # Django app
 
 model/
 └── diabetes_model.pkl # Trained ML model (pickle format)
-
+```
 
 ---
 
@@ -79,12 +79,12 @@ model/
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/42ea9bb9-2325-4e84-8037-5c1a824c7811)
 
 | Input Form | Prediction Result |
 |------------|-------------------|
-| ![image](https://github.com/user-attachments/assets/5cf8b337-a56d-4d45-96ad-9fc553ba5a4c)
- | ![image](https://github.com/user-attachments/assets/c5fbe897-fd0b-44ae-b2d8-0361fde9c24e)
- | ![image](https://github.com/user-attachments/assets/d03e9715-4c81-4154-b6f8-d17e1abd813d)
+| ![image](https://github.com/user-attachments/assets/6776bca2-9db4-496f-8373-76c3623a61d3)|![image](https://github.com/user-attachments/assets/eaeddef0-2cd0-4c48-afc2-b97edb523089)
+|
 
 
 
